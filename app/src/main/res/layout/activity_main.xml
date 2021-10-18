@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/Button"
-        android:text="拉取联系人列表"/>
+        android:text="获取联系人列表"/>
     <ListView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
