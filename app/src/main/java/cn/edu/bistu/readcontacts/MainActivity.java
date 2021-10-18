@@ -1,12 +1,8 @@
 package cn.edu.bistu.readcontacts;
 
 import android.Manifest;
-import android.content.Intent;
-import android.content.pm.ComponentInfo;
 import android.content.pm.PackageManager;
 import android.database.Cursor;
-import android.net.NetworkRequest;
-import android.net.Uri;
 import android.provider.ContactsContract;
 import android.os.Bundle;
 import android.view.View;
